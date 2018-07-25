@@ -1,4 +1,4 @@
-package com.demo.microservice.utils;
+package com.dzz.microservice.utils;
 
 import org.springframework.context.ApplicationContext;
 

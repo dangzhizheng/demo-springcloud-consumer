@@ -1,6 +1,6 @@
-package com.demo.microservice.web;
+package com.dzz.microservice.web;
 
-import com.demo.microservice.service.ApiTestServiceImpl;
+import com.dzz.microservice.service.ApiTestServiceImpl;
 import com.xxyy.log.LogUtil;
 import com.xxyy.result.JsonResult;
 import com.xxyy.result.JsonResultUtil;
@@ -57,7 +57,7 @@ public class ApiTest {
 //    public JsonResult apiTest(@RequestParam("id") String id) {
 //        try {
 //            LogUtil.info("id:" + String.valueOf(id));
-//            com.demo.microservice.entity.ApiTest apiTest = apiTestService.apiTestService(Long.valueOf(id));
+//            ApiTest apiTest = apiTestService.apiTestService(Long.valueOf(id));
 //            return JsonResultUtil.getJsonResult(JsonResultUtil.Code.SUCCESS, apiTest,
 //                    JsonResultUtil.Code.SUCCESS.message);
 //        } catch (Exception e) {

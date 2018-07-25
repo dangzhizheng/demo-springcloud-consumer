@@ -4,9 +4,9 @@
   -->
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
 
-<mapper namespace="com.demo.microservice.mapper.TestMapper" >
+<mapper namespace="com.dzz.microservice.mapper.TestMapper" >
 
-    <resultMap id="BaseResultMap" type="com.demo.microservice.entity.ApiTest" >
+    <resultMap id="BaseResultMap" type="com.dzz.microservice.entity.ApiTest" >
         <id column="id" property="id" />
         <result column="name" property="name" />
         <result column="create_time" property="createTime" />

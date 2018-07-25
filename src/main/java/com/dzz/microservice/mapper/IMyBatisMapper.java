@@ -1,4 +1,4 @@
-package com.demo.microservice.mapper;
+package com.dzz.microservice.mapper;
 
 /**
  * MyBatis 接口

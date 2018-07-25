@@ -1,4 +1,4 @@
-package com.demo.microservice.utils;
+package com.dzz.microservice.utils;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

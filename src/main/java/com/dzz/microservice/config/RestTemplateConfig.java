@@ -1,4 +1,4 @@
-package com.demo.microservice.config;
+package com.dzz.microservice.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

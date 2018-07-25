@@ -1,9 +1,9 @@
 /*
  * Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
  */
-package com.demo.microservice.mapper;
+package com.dzz.microservice.mapper;
 
-import com.demo.microservice.entity.ApiTest;
+import com.dzz.microservice.entity.ApiTest;
 
 /**
  * Created by dangzhizheng on 2017/9/13.

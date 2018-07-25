@@ -1,7 +1,5 @@
-package com.demo.microservice.service;
+package com.dzz.microservice.service;
 
-import com.demo.microservice.entity.ApiTest;
-import com.demo.microservice.mapper.TestMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

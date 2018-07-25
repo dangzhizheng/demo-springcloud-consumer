@@ -1,4 +1,4 @@
-package com.demo.microservice.web;
+package com.dzz.microservice.web;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.xxyy.log.LogUtil;

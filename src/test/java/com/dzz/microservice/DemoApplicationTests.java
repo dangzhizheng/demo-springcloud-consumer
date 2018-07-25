@@ -1,4 +1,4 @@
-package com.demo.microservice;
+package com.dzz.microservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
