@@ -1,0 +1,16 @@
+# 指令
+>mvn指令  
+> * 跳过test：mvn package -Dmaven.test.skip=true
+
+# 功能
+> 服务消费者
+```
+1、调用注册到eureka的服务
+2、使用eureka、ribbon
+3、使用restTemplate通过实例名调用注册到eureka的服务前必须声明ribbon注解
+```
+
+> 断路器功能
+```
+1、添加断路器功能
+```
